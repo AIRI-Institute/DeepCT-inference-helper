@@ -1,0 +1,11 @@
+# Path to the cache. VCF must be bgzip&tabix'ed.
+# The cache must be in hg19 coordinates.
+cache: cache/cache.vcf.gz
+
+# Paths to genome fastas. Not gzipped. Must be faidx'ed.
+genome_hg19: /path/to/your/hg19.fasta
+genome_hg38: /path/to/your/hg38.fasta
+
+# Paths to liftover chains.
+chain_hg38_to_hg19: /path/to/your/hg38ToHg19.over.chain.gz
+chain_hg19_to_hg38: /path/to/your/hg19ToHg38.over.chain.gz

@@ -1,0 +1,43 @@
+---
+ops: [analyze]
+
+model: {
+    path: src/deepct_model_multi_ct_q_mpi.py,
+    class: qDeepCT,
+    class_args: {
+        sequence_length: 1000,
+        n_cell_types: 794,
+        sequence_embedding_length: 256,
+        cell_type_embedding_length: 32,
+        final_embedding_length: 256,    
+        n_genomic_features: 40,
+    }
+}
+
+analyze_sequences: !obj:src.prediction.predict.AnalyzeSequences {
+    trained_model_path: ../models/deepct.40_features_q_mpi_highQCsamples.2021-12-15.best_model.pth.tar,
+    sequence_length: 1000,
+    features: !obj:selene_sdk.utils.load_features_list {
+        input_path: ../descriptions/target_features.txt
+    },
+    distinct_features: !obj:selene_sdk.utils.load_features_list {
+        input_path: ../descriptions/distinct_features_nonTreated.qcfiltered.txt
+    },
+    batch_size: 256,
+    device: 'cuda:1',
+    data_parallel: False,
+    n_cell_types: 794,
+    center_bin: 200, 
+    reference_sequence: !obj:selene_sdk.sequences.Genome {
+        input_path: {{ config['genome_hg19'] }}
+    },
+    write_mem_limit: 1000
+}
+
+tsv_prediction: {
+    tsv_files: [ "../{{ params['tsv'] }}" ],
+    output_dir: "../tmp",
+}
+
+random_seed: 1447
+...

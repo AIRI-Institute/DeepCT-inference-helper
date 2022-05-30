@@ -1,0 +1,19 @@
+name: deepct-inference-helper
+channels: 
+- bioconda
+- conda-forge
+dependencies:
+- snakemake
+- crossmap
+- bedtools
+- bcftools
+- python=3.8.*
+- pip
+- numpy=1.22.3
+- pip:
+  - git+ssh://github.com/AIRI-Institute/selene.git#egg=selene-sdk
+  - torch==1.9.1
+  - torchvision==0.10.1
+  - scikit-learn==1.1.0
+  - joblib==1.1.0
+  - pyBigWig==0.3.17

@@ -1,0 +1,3 @@
+[submodule "DeepCT"]
+	path = DeepCT
+	url = git@github.com:AIRI-Institute/DeepCT.git
