@@ -79,7 +79,7 @@ rule annotate_cached:
         "tmp/{sample}.deepct.in_cache.hg19.vcf"
     shell:
         "if [[ $(gunzip -c {input} | wc -l) != 0 ]];"
-        "  then bcftools annotate -a {config[cache]} -c INFO/DEEPCT {input} > {output};"
+        "  then bcftools annotate -a {config[cache]} -c INFO/DEEPCT_CHANGE,INFO/DEEPCT_ORGANS,INFO/DEEPCT_CELLS {input} > {output};"
         "  else ln {input} {output};"
         "fi"
 

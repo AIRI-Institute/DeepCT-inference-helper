@@ -25,42 +25,55 @@ EXCLUDED_CELL_TYPES = np.array([
 ])
 
 
+def get_cell_names(cell_names_path):
+    groups = {}
+    subgroups = {}
+
+    with open(cell_names_path) as f:
+        for line in f:
+            (group, ct, subgroup) = line.rstrip().split("\t")
+            groups[ct] = group
+            subgroups[ct] = subgroup
+
+    return groups, subgroups
+
+
 def get_target_features_and_cell_types(distinct_features_path, target_features_path):
     def _parse_distinct_feature(distinct_feature):
-            """
-            Parse a combination of `cell_type|feature_name|info` into
-            `(feature_name, cell_type)`
-            """
-            feature_description = distinct_feature.split("|")
-            feature_name = feature_description[1]
-            cell_type = feature_description[0]
-            addon = feature_description[2]
-            if addon != "None":
-                cell_type = cell_type + "_" + addon
-            return feature_name, cell_type
+        """
+        Parse a combination of `cell_type|feature_name|info` into
+        `(feature_name, cell_type)`
+        """
+        feature_description = distinct_feature.split("|")
+        feature_name = feature_description[1]
+        cell_type = feature_description[0]
+        addon = feature_description[2]
+        if addon != "None":
+            cell_type = cell_type + "_" + addon
+        return feature_name, cell_type
 
 
     with open(distinct_features_path) as f:
-            distinct_features = list(map(lambda x: x.rstrip(), f.readlines()))
+        distinct_features = list(map(lambda x: x.rstrip(), f.readlines()))
 
     with open(target_features_path) as f:
-            target_features = list(map(lambda x: x.rstrip(), f.readlines()))
+        target_features = list(map(lambda x: x.rstrip(), f.readlines()))
 
     distinct_features = [
-                    i
-                    for i in distinct_features
-                    if _parse_distinct_feature(i)[0] in target_features
-                ]
+            i
+            for i in distinct_features
+            if _parse_distinct_feature(i)[0] in target_features
+        ]
 
     _cell_types = []
     for distinct_feature_index, distinct_feature in enumerate(
-                    distinct_features
-                ):
-                    feature_name, cell_type = _parse_distinct_feature(distinct_feature)
-                    if feature_name not in target_features:
-                        continue
-                    if cell_type not in _cell_types:
-                        _cell_types.append(cell_type)
+            distinct_features
+        ):
+            feature_name, cell_type = _parse_distinct_feature(distinct_feature)
+            if feature_name not in target_features:
+                continue
+            if cell_type not in _cell_types:
+                _cell_types.append(cell_type)
     return distinct_features, target_features, _cell_types
 
 
@@ -93,6 +106,8 @@ def parse_arguments():
                         help='Path to a text file describing feature names.')
     parser.add_argument('--track-names', default='descriptions/distinct_features_nonTreated.qcfiltered.txt', required=False,
                         help='Path to a text file describing tracks (cell type * feature).')
+    parser.add_argument('--cell-names', default='descriptions/cell_types.full.txt', required=False,
+                        help='Path to a text file describing cell types (group, full name, subgroup).')
 
     parser.add_argument('--include-wo-predictions', action='store_true', required=False,
                         help='Include sites without predictions in the output.')
@@ -113,6 +128,7 @@ def main():
         distinct_features_path=args.track_names,
         target_features_path=args.feature_names
     )
+    ct_groups, ct_subgroups = get_cell_names(args.cell_names)
 
     var_results = [ {} for i in range(predicted_data_array.shape[0]) ]
     for cell_index in range(predicted_data_array.shape[2]):
@@ -134,9 +150,9 @@ def main():
             consequence = ''
             diff = diff_preds[variant]
             if diff == 1:
-                consequence = f"L{prob:.2f}" # "loss" of regulatory site
+                consequence = "L" # "loss" of regulatory site
             elif diff == -1:
-                consequence = f"G{prob:.2f}" # "gain"
+                consequence = "G" # "gain"
             else:
                 continue
             
@@ -150,8 +166,20 @@ def main():
 
             if variant:
                 fields = vcf_line.split("\t")
-                fields[7] += ";DEEPCT="+",".join( f"{variant[c]}@{c}" for c in variant.keys() )
+                
+                change = f";DEEPCT_CHANGE={next(iter(variant.values()))}" # Change is always the same for all cell types
 
+                organs = ";DEEPCT_ORGANS="
+                organs_set = set()
+                [organs_set.add(ct_groups[ct]) for ct in variant.keys()]
+                organs += ", ".join(sorted(organs_set))
+                    
+                cells = ";DEEPCT_CELLS="
+                cells_set = set()
+                [cells_set.add(ct_subgroups[ct]) for ct in variant.keys()]
+                cells += ", ".join(sorted(cells_set))
+
+                fields[7] += change + organs + cells
                 merged_line = "\t".join(fields)
                 vcfout.write(merged_line)
             else:

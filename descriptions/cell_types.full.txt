@@ -1,0 +1,916 @@
+Cancer	22Rv1	Prostate epithelial carcinoma
+Cancer	22Rv1_treated_with_10_nM_17b-hydroxy-5a-androstan-3-one_for_4_hours	Prostate epithelial carcinoma
+Cancer	8988T	Pancreas adenocarcinoma
+Cancer	A172	Glioblastoma
+Cancer	A549	Lung epithelial carcinoma
+Cancer	A549_treated_with_0.02pct_ethanol_for_1_hour	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_1_hour	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_10_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_10_minutes	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_12_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_15_minutes	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_2_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_20_minutes	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_25_minutes	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_3_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_30_minutes	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_4_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_5_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_5_minutes	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_6_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_7_hours	Lung epithelial carcinoma
+Cancer	A549_treated_with_100_nM_dexamethasone_for_8_hours	Lung epithelial carcinoma
+Cancer	A673	Muscle ewing sarcoma
+Cancer	ACC112	Adenoid cystic carcinoma
+Cancer	ACHN	Renal cell adenocarcinoma
+Adipose	adipocyte	Adipocyte
+Adipose	adipocyte_originated_from_mesenchymal_stem_cell	Adipocyte from MSC
+Adipose	adipose_tissue_male_adult_(34_years)	Adipose tissue
+Endocrine	adrenal_gland_embryo_(96_days)	Adrenal gland
+Endocrine	adrenal_gland_female_adult_(30_years)	Adrenal gland
+Endocrine	adrenal_gland_female_adult_(51_year)	Adrenal gland
+Endocrine	adrenal_gland_female_adult_(53_years)	Adrenal gland
+Endocrine	adrenal_gland_female_embryo_(108_days)	Adrenal gland
+Endocrine	adrenal_gland_female_embryo_(113_days)	Adrenal gland
+Endocrine	adrenal_gland_female_embryo_(85_days)	Adrenal gland
+Endocrine	adrenal_gland_male_adult_(34_years)	Adrenal gland
+Endocrine	adrenal_gland_male_adult_(37_years)	Adrenal gland
+Endocrine	adrenal_gland_male_adult_(54_years)	Adrenal gland
+Endocrine	adrenal_gland_male_embryo_(101_day)	Adrenal gland
+Endocrine	adrenal_gland_male_embryo_(108_days)	Adrenal gland
+Endocrine	adrenal_gland_male_embryo_(85_days)	Adrenal gland
+Endocrine	adrenal_gland_male_embryo_(97_days)	Adrenal gland
+Stromal	AG04449	Skin fibroblast
+Stromal	AG04450	Lung fibroblast
+Stromal	AG08395	Skin fibroblast
+Stromal	AG08396	Lung fibroblast
+Stromal	AG09309	Skin fibroblast
+Stromal	AG09319	Gingival fibroblast
+Stromal	AG10803	Skin fibroblast
+Stromal	AG20443	Skin fibroblast
+Brain	Ammon_s_horn_male_adult_(84_years)	Ammons horn
+Placenta	amnion_male_embryo_(16_weeks)	Amnion
+Epithelial	amniotic_epithelial_cell	Amnion epithelial cell
+Placenta	amniotic_stem_cell	Amnion stem cell
+Brain	angular_gyrus_female_adult_(75_years)	Angular gyrus
+Brain	angular_gyrus_male_adult_(81_year)	Angular gyrus
+Heart	aorta_female_adult_(30_years)	Aorta
+Heart	aorta_male_adult_(34_years)	Aorta
+Bone	arm_bone_male_embryo_(81_day)	Bone arm
+Heart	ascending_aorta_female_adult_(51_year)	Ascending aorta
+Heart	ascending_aorta_female_adult_(53_years)	Ascending aorta
+Brain	astrocyte	Astrocyte
+Brain	astrocyte_of_the_cerebellum	Astrocyte cerebellum
+Brain	astrocyte_of_the_hippocampus	Astrocyte hippocampus
+Brain	astrocyte_of_the_spinal_cord	Astrocyte spinal cord
+HSC & B-cell	B_cell	B cell
+HSC & B-cell	B_cell_female_adult_(27_years)	B cell
+HSC & B-cell	B_cell_female_adult_(27_years)_and_female_adult_(43_years)	B cell
+HSC & B-cell	B_cell_female_adult_(34_years)	B cell
+HSC & B-cell	B_cell_female_adult_(43_years)	B cell
+HSC & B-cell	B_cell_male_adult_(21_year)	B cell
+HSC & B-cell	B_cell_male_adult_(37_years)	B cell
+Cancer	BE2C	Neuroblastoma
+ES-deriv	bipolar_neuron_originated_from_GM23338_treated_with_0.5_mg_mL_doxycycline_hyclate_for_4_days	Bipolar neuron deriv
+Stromal	BJ	Skin fibroblast
+Pancreas	body_of_pancreas_female_adult_(51_year)	Body of pancreas
+Pancreas	body_of_pancreas_female_adult_(53_years)	Body of pancreas
+Pancreas	body_of_pancreas_male_adult_(37_years)	Body of pancreas
+Pancreas	body_of_pancreas_male_adult_(54_years)	Body of pancreas
+Brain	brain_embryo_(112_days)	Brain
+Brain	brain_embryo_(56_days)_and_male_embryo_(58_days)	Brain
+Brain	brain_embryo_(80_days)	Brain
+Brain	brain_female_embryo_(105_days)	Brain
+Brain	brain_female_embryo_(109_days)	Brain
+Brain	brain_female_embryo_(117_days)	Brain
+Brain	brain_female_embryo_(120_days)	Brain
+Brain	brain_female_embryo_(142_days)	Brain
+Brain	brain_female_embryo_(17_weeks)	Brain
+Brain	brain_female_embryo_(85_days)	Brain
+Brain	brain_female_embryo_(96_days)	Brain
+Brain	brain_male_embryo_(101_day)	Brain
+Brain	brain_male_embryo_(104_days)	Brain
+Brain	brain_male_embryo_(105_days)	Brain
+Brain	brain_male_embryo_(122_days)	Brain
+Brain	brain_male_embryo_(72_days)_and_male_embryo_(76_days)	Brain
+Endothelial	brain_microvascular_endothelial_cell	Brain microvascular endothelial cell
+Stromal	brain_pericyte	Pericyte
+Other	breast_epithelium_female_adult_(51_year)	Breast epithelium
+Other	breast_epithelium_female_adult_(53_years)	Breast epithelium
+Other	breast_epithelium_male_adult_(54_years)	Breast epithelium
+Epithelial	bronchial_epithelial_cell	Bronchial epithelial cell
+Epithelial	bronchial_epithelial_cell_female_treated_with_retinoic_acid	Bronchial epithelial cell
+Cancer	C4-2B	Prostate cancer
+Cancer	Caco-2	Colorectal adenocarcinoma
+Cancer	Caki2	Kidney clear cell carcinoma
+Stromal	cardiac_fibroblast	Cardiac fibroblast
+Stromal	cardiac_fibroblast_female	Cardiac fibroblast
+Stromal	cardiac_fibroblast_female_embryo_(94_days)_and_female_embryo_(98_days)	Cardiac fibroblast
+ES-deriv	cardiac_mesoderm_originated_from_H7-hESC	Cardiac mesoderm deriv
+Muscle	cardiac_muscle_cell	Cardiac myocyte
+ES-deriv	cardiac_muscle_cell_originated_from_RUES2	Cardiac muscle deriv
+Brain	caudate_nucleus_female_adult_(75_years)	Caudate nucleus
+Brain	caudate_nucleus_male_adult_(78_years)	Caudate nucleus
+Brain	caudate_nucleus_male_adult_(81_year)	Caudate nucleus
+HSC & B-cell	CD14-positive_monocyte_female	CD14 monocyte
+HSC & B-cell	CD14-positive_monocyte_female_adult_(34_years)	CD14 monocyte
+HSC & B-cell	CD14-positive_monocyte_male_adult_(21_year)	CD14 monocyte
+HSC & B-cell	CD14-positive_monocyte_male_adult_(37_years)	CD14 monocyte
+HSC & B-cell	CD1c-positive_myeloid_dendritic_cell	CD1c myeloid dendritic cell
+Blood & T-cell	CD4-positive,_alpha-beta_memory_T_cell	CD4 T cell
+Blood & T-cell	CD4-positive,_alpha-beta_memory_T_cell_originated_from_blood_cell	CD4 T cell
+Blood & T-cell	CD4-positive,_alpha-beta_T_cell	CD4 T cell
+Blood & T-cell	CD4-positive,_alpha-beta_T_cell_female_adult_(33_years)	CD4 T cell
+Blood & T-cell	CD4-positive,_alpha-beta_T_cell_male_adult_(21_year)	CD4 T cell
+Blood & T-cell	CD4-positive,_alpha-beta_T_cell_male_adult_(37_years)	CD4 T cell
+Blood & T-cell	CD4-positive,_alpha-beta_T_cell_treated_with_phorbol_13-acetate_12-myristate_,_ionomycin	CD4 T cell
+Blood & T-cell	CD4-positive,_CD25-positive,_alpha-beta_regulatory_T_cell	CD4 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_memory_T_cell	CD8 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_T_cell	CD8 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_T_cell_female_adult_(33_years)	CD8 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_T_cell_female_adult_(34_years)	CD8 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_T_cell_male_adult_(21_year)	CD8 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_T_cell_male_adult_(28_years)	CD8 T cell
+Blood & T-cell	CD8-positive,_alpha-beta_T_cell_male_adult_(37_years)	CD8 T cell
+Brain	cerebellar_cortex_male_adult_(78_years)_and_male_adult_(84_years)	Cerebellar cortex
+Brain	cerebellum_male_adult_(20_years)	Cerebellum
+Brain	cerebellum_male_adult_(27_years)_and_male_adult_(35_years)	Cerebellum
+Brain	cerebellum_male_adult_(53_years)	Cerebellum
+Placenta	chorion	Chorion
+Placenta	chorion_female_embryo_(40_weeks)	Chorion
+Placenta	chorion_male_embryo_(16_weeks)	Chorion
+Placenta	chorionic_villus_embryo_(16_weeks)	Chorionic villus
+Placenta	chorionic_villus_female_embryo_(40_weeks)	Chorionic villus
+Placenta	chorionic_villus_male_embryo_(16_weeks)	Chorionic villus
+Placenta	chorionic_villus_male_embryo_(38_weeks)	Chorionic villus
+Epithelial	choroid_plexus_epithelial_cell	Choroid plexus epithelial cell
+Brain	cingulate_gyrus_female_adult_(75_years)	Cingulate gyrus
+Brain	cingulate_gyrus_male_adult_(81_year)	Cingulate gyrus
+Cancer	CMK	Myelogenous leukemia
+Cancer	COLO829	Melanoma
+Epithelial	colon_epithelial_cell_line	Colon epithelial cell
+Digestive	colonic_mucosa_female_adult_(56_years)	Colon mucosa
+Digestive	colonic_mucosa_female_adult_(73_years)	Colon mucosa
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female_adult_(27_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female_adult_(33_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female_adult_(50_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(23_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(36_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(37_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(42_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(43_years)	CD34 CMP
+HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(49_years)	CD34 CMP
+Heart	coronary_artery_female_adult_(51_year)	Coronary artery
+Heart	coronary_artery_female_adult_(53_years)	Coronary artery
+iPSC	CWRU1_male	iPSC
+Cancer	Daoy	Desmoplastic medulloblastoma
+Mesenchyme	dedifferentiated_amniotic_fluid_mesenchymal_stem_cell	Amniotic fluid from MSC
+Endothelial	dermis_blood_vessel_endothelial_cell_female_adult	Dermis blood vessel endothelial cell
+Endothelial	dermis_blood_vessel_endothelial_cell_male_newborn	Dermis blood vessel endothelial cell
+Endothelial	dermis_microvascular_lymphatic_vessel_endothelial_cell_female	Dermis lymphatic vessel endothelial cell
+Endothelial	dermis_microvascular_lymphatic_vessel_endothelial_cell_male	Dermis lymphatic vessel endothelial cell
+Cancer	DND-41	Acute lymphoblastic leukemia
+Cancer	DOHH2	B cell lymphoma
+Digestive	duodenal_mucosa_male_adult_(59_years)	Duodenum mucosa
+Digestive	duodenal_mucosa_male_adult_(76_years)	Duodenum mucosa
+ES-deriv	ecto_neural_progenitor_cell_originated_from_H9	Neural progenitor deriv
+ES-deriv	ectodermal_cell_originated_from_embryonic_stem_cell	Ectodermal deriv
+Blood & T-cell	effector_memory_CD4-positive,_alpha-beta_T_cell	CD4 T cell
+Stromal	EH	Skin fibroblast
+Stromal	EL	Skin fibroblast
+ESC	ELF-1	ESC
+Stromal	ELR	Skin fibroblast
+Mesenchyme	embryonic_facial_prominence_embryo_(53_days)_and_embryo_(58_days)	Embryonic facial prominence
+Endocrine	endocrine_pancreas_adult_(59_years)	Endocrine pancreas
+Endocrine	endocrine_pancreas_male	Endocrine pancreas
+Endocrine	endocrine_pancreas_male_adult_(45_years)	Endocrine pancreas
+Endocrine	endocrine_pancreas_male_adult_(46_years)	Endocrine pancreas
+ES-deriv	endodermal_cell	Endodermal cell
+ES-deriv	endodermal_cell_originated_from_HUES64	Endodermal deriv
+Endothelial	endothelial_cell_of_umbilical_vein_male_newborn	Umbilical vein endothelial cell
+Endothelial	endothelial_cell_of_umbilical_vein_newborn	Umbilical vein endothelial cell
+Other	epidermal_melanocyte	Epidermal melanocyte
+Epithelial	epithelial_cell_of_esophagus	Esophagus epithelial cell
+Epithelial	epithelial_cell_of_prostate	Prostate epithelial cell
+Epithelial	epithelial_cell_of_prostate_male	Prostate epithelial cell
+Epithelial	epithelial_cell_of_proximal_tubule	Proximal tubule epithelial cell
+HSC & B-cell	erythroblast_male	Erythroblast
+ESC	ES-I3	ESC
+Digestive	esophagus_female_adult_(30_years)	Esophagus
+Digestive	esophagus_male_adult_(34_years)	Esophagus
+Digestive	esophagus_muscularis_mucosa_female_adult_(51_year)	Esophagus muscularis mucosa
+Digestive	esophagus_muscularis_mucosa_female_adult_(53_years)	Esophagus muscularis mucosa
+Digestive	esophagus_muscularis_mucosa_male_adult_(37_years)	Esophagus muscularis mucosa
+Digestive	esophagus_muscularis_mucosa_male_adult_(54_years)	Esophagus muscularis mucosa
+Digestive	esophagus_squamous_epithelium_female_adult_(51_year)	Esophagus squamous epithelium
+Digestive	esophagus_squamous_epithelium_female_adult_(53_years)	Esophagus squamous epithelium
+Digestive	esophagus_squamous_epithelium_male_adult_(37_years)	Esophagus squamous epithelium
+Digestive	esophagus_squamous_epithelium_male_adult_(54_years)	Esophagus squamous epithelium
+Eye	eye_embryo_(56_days)_and_male_embryo_(76_days)	Eye
+Eye	eye_female_embryo_(76_days)	Eye
+Bone	femur_female_embryo_(98_days)	Bone femur
+Stromal	fibroblast_of_breast_female_adult_(17_years)	Breast fibroblast
+Stromal	fibroblast_of_breast_female_adult_(26_years)	Breast fibroblast
+Stromal	fibroblast_of_dermis	Dermis fibroblast
+Stromal	fibroblast_of_dermis_female_adult	Dermis fibroblast
+Stromal	fibroblast_of_dermis_NONE_and_female_adult	Dermis fibroblast
+Stromal	fibroblast_of_gingiva	Gingival fibroblast
+Stromal	fibroblast_of_lung	Lung fibroblast
+Stromal	fibroblast_of_lung_female_child_(11_year)_and_male_adult_(45_years)	Lung fibroblast
+Stromal	fibroblast_of_lung_male_adult_(45_years)	Lung fibroblast
+Stromal	fibroblast_of_mammary_gland_female	Mammary fibroblast
+Stromal	fibroblast_of_peridontal_ligament_male	Peridontal ligament fibroblast
+Stromal	fibroblast_of_pulmonary_artery	Pulmonary artery fibroblast
+Stromal	fibroblast_of_skin_of_abdomen_male_embryo_(97_days)	Skin fibroblast
+Stromal	fibroblast_of_the_aortic_adventitia_female	Aorta fibroblast
+Stromal	fibroblast_of_the_conjunctiva	Conjunctiva fibroblast
+Stromal	fibroblast_of_villous_mesenchyme	Villous mesenchyme fibroblast
+Muscle	forelimb_muscle_female_embryo_(108_days)	Arm muscle
+Stromal	foreskin_fibroblast_male_newborn	Foreskin fibroblast
+Epithelial	foreskin_keratinocyte_male_newborn	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_0_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_0.5_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_1_day	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_1.5_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_2_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_2.5_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_3_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_3.5_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_4_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_4.5_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_5_days	Foreskin keratinocyte
+Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_5.5_days	Foreskin keratinocyte
+Other	foreskin_melanocyte_male_newborn	Foreskin melanocyte
+Brain	frontal_cortex_female_adult_(67_years)_and_female_adult_(80_years)	Frontal cortex
+Brain	frontal_cortex_male_adult_(27_years)_and_male_adult_(35_years)	Frontal cortex
+Cancer	G401	Kidney rhaboid tumor
+Muscle	gastrocnemius_medialis_female_adult_(51_year)	Gastrocnemius medialis
+Muscle	gastrocnemius_medialis_female_adult_(53_years)	Gastrocnemius medialis
+Muscle	gastrocnemius_medialis_male_adult_(37_years)	Gastrocnemius medialis
+Muscle	gastrocnemius_medialis_male_adult_(54_years)	Gastrocnemius medialis
+Digestive	gastroesophageal_sphincter_female_adult_(51_year)	Gastroesophageal sphincter
+Digestive	gastroesophageal_sphincter_female_adult_(53_years)	Gastroesophageal sphincter
+Digestive	gastroesophageal_sphincter_male_adult_(37_years)	Gastroesophageal sphincter
+Digestive	gastroesophageal_sphincter_male_adult_(54_years)	Gastroesophageal sphincter
+HSC & B-cell	germinal_center	Germinal center
+Brain	germinal_matrix_male_embryo_(20_weeks)	Germinal matrix
+Brain	globus_pallidus_male_adult_(78_years)_and_male_adult_(84_years)	Globus pallidus
+Endothelial	glomerular_endothelial_cell	Glomerulus endothelial cell
+Epithelial	glomerular_visceral_epithelial_cell_child_(3_years)	Glomerulus visceral epithelial cell
+Stromal	GM03348	Skin fibroblast
+Stromal	GM04503	Skin fibroblast
+Stromal	GM04504	Skin fibroblast
+Lymphoblastoid	GM06990	Lymphoblastoid cell line
+Lymphoblastoid	GM08714	Lymphoblastoid cell line
+Lymphoblastoid	GM10248	Lymphoblastoid cell line
+Lymphoblastoid	GM10266	Lymphoblastoid cell line
+Lymphoblastoid	GM10847	Lymphoblastoid cell line
+Lymphoblastoid	GM12801	Lymphoblastoid cell line
+Lymphoblastoid	GM12864	Lymphoblastoid cell line
+Lymphoblastoid	GM12865	Lymphoblastoid cell line
+Lymphoblastoid	GM12866	Lymphoblastoid cell line
+Lymphoblastoid	GM12867	Lymphoblastoid cell line
+Lymphoblastoid	GM12868	Lymphoblastoid cell line
+Lymphoblastoid	GM12869	Lymphoblastoid cell line
+Lymphoblastoid	GM12870	Lymphoblastoid cell line
+Lymphoblastoid	GM12871	Lymphoblastoid cell line
+Lymphoblastoid	GM12872	Lymphoblastoid cell line
+Lymphoblastoid	GM12873	Lymphoblastoid cell line
+Lymphoblastoid	GM12874	Lymphoblastoid cell line
+Lymphoblastoid	GM12875	Lymphoblastoid cell line
+Lymphoblastoid	GM12878	Lymphoblastoid cell line
+Lymphoblastoid	GM12891	Lymphoblastoid cell line
+Lymphoblastoid	GM12892	Lymphoblastoid cell line
+Lymphoblastoid	GM13976	Lymphoblastoid cell line
+Lymphoblastoid	GM13977	Lymphoblastoid cell line
+Lymphoblastoid	GM15510	Lymphoblastoid cell line
+Lymphoblastoid	GM18505	Lymphoblastoid cell line
+Lymphoblastoid	GM18507	Lymphoblastoid cell line
+Lymphoblastoid	GM18526	Lymphoblastoid cell line
+Lymphoblastoid	GM18951	Lymphoblastoid cell line
+Lymphoblastoid	GM19099	Lymphoblastoid cell line
+Lymphoblastoid	GM19193	Lymphoblastoid cell line
+Lymphoblastoid	GM19238	Lymphoblastoid cell line
+Lymphoblastoid	GM19239	Lymphoblastoid cell line
+Lymphoblastoid	GM19240	Lymphoblastoid cell line
+Lymphoblastoid	GM20000	Lymphoblastoid cell line
+Stromal	GM23248	Skin fibroblast
+iPSC	GM23338_male_adult_(53_years)_originated_from_GM23248	iPSC
+ESC	H1-hESC	ESC
+Cancer	H4	Neuroglioma
+Cancer	H54	Glioblastoma
+ESC	H7-hESC	ESC
+ESC	H9	ESC
+Cancer	HAP-1	Haploid myelogenous leukemia
+Cancer	HCT116	Colorectal adenocarcinoma
+Heart	heart_embryo_(101_day)	Heart
+Heart	heart_embryo_(59_days)_and_female_embryo_(76_days)	Heart
+Heart	heart_embryo_(80_days)	Heart
+Heart	heart_embryo_(96_days)	Heart
+Heart	heart_female_embryo_(103_days)	Heart
+Heart	heart_female_embryo_(105_days)	Heart
+Heart	heart_female_embryo_(110_days)	Heart
+Heart	heart_female_embryo_(116_days)_and_female_embryo_(98_days)	Heart
+Heart	heart_female_embryo_(117_days)	Heart
+Heart	heart_female_embryo_(147_days)	Heart
+Heart	heart_female_embryo_(91_day)	Heart
+Heart	heart_left_ventricle_female_adult_(51_year)	Heart left ventricle
+Heart	heart_left_ventricle_female_adult_(53_years)	Heart left ventricle
+Heart	heart_left_ventricle_female_embryo_(101_day)_and_female_embryo_(103_days)	Heart left ventricle
+Heart	heart_left_ventricle_female_embryo_(136_days)	Heart left ventricle
+Liver	liver_male_adult_(32 years)	Liver
+Heart	heart_left_ventricle_male_adult_(34_years)	Heart left ventricle
+Heart	heart_left_ventricle_male_child_(3_years)	Heart left ventricle
+Heart	heart_male_adult_(27_years)_and_male_adult_(35_years)	Heart
+Heart	heart_male_child_(3_years)	Heart
+Heart	heart_male_embryo_(105_days)	Heart
+Heart	heart_male_embryo_(110_days)	Heart
+Heart	heart_male_embryo_(120_days)	Heart
+Heart	heart_male_embryo_(72_days)_and_male_embryo_(76_days)	Heart
+Heart	heart_male_embryo_(91_day)	Heart
+Heart	heart_male_embryo_(96_days)	Heart
+Heart	heart_right_ventricle_female_embryo_(101_day)_and_female_embryo_(103_days)	Heart right ventricle
+Heart	heart_right_ventricle_male_adult_(34_years)	Heart right ventricle
+Heart	heart_right_ventricle_male_child_(3_years)	Heart right ventricle
+Kidney	HEK293	Kidney cell
+Kidney	HEK293T	Kidney cell
+Cancer	HeLa-S3	Cervix adenocarcinoma
+Cancer	HeLa-S3_G1b_phase	Cervix adenocarcinoma
+Cancer	HeLa-S3_treated_with_interferon_alpha_for_4_hours	Cervix adenocarcinoma
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_male_adult_(25_years)_treated_with_erythropoietin_for_20_days,_hydrocortisone_succinate_for_20_days,_kit_ligand_for_20_days,_interleukin-3_for_20_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_11_day,_kit_ligand_for_11_day,_hydrocortisone_succinate_for_11_day,_erythropoietin_for_11_day	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_13_days,_kit_ligand_for_13_days,_hydrocortisone_succinate_for_13_days,_erythropoietin_for_13_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_15_days,_kit_ligand_for_15_days,_hydrocortisone_succinate_for_15_days,_erythropoietin_for_15_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_17_days,_kit_ligand_for_17_days,_hydrocortisone_succinate_for_17_days,_erythropoietin_for_17_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_18_days,_kit_ligand_for_18_days,_hydrocortisone_succinate_for_18_days,_erythropoietin_for_18_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_4_days,_kit_ligand_for_4_days,_hydrocortisone_succinate_for_4_days,_erythropoietin_for_4_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_6_days,_kit_ligand_for_6_days,_hydrocortisone_succinate_for_6_days,_erythropoietin_for_6_days	Mpp
+HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_8_days,_kit_ligand_for_8_days,_hydrocortisone_succinate_for_8_days,_erythropoietin_for_8_days	Mpp
+Liver	hepatic_stellate_cell_female_adult_(59_years)	Hepatic stellate cell
+Liver	hepatocyte	Hepatocyte
+ES-deriv	hepatocyte_originated_from_H9	Hepatocyte deriv
+Cancer	HepG2	Hepatocellular carcinoma
+Cancer	HepG2_treated_with_2_mM_pravastatin_for_16_hours	Hepatocellular carcinoma
+Cancer	HepG2_treated_with_forskolin_and_pyruvate_for_6_hours	Hepatocellular carcinoma
+Stromal	HFF-Myc_originated_from_foreskin_fibroblast	Foreskin fibroblast
+Muscle	hindlimb_muscle_male_embryo_(120_days)	Leg muscle
+Epithelial	HK-2	Proximal tubule epithelial cell
+Cancer	HL-60	Acute promyelocytic leukemia
+Epithelial	HPDE6-E6E7	Pancreatic duct epithelial cell
+Epithelial	HS-27A	Bone marrow epithelial cell
+Bone	HS-5	Bone marrow stroma
+Cancer	HT-29	Colorectal adenocarcinoma
+Cancer	HT1080	Fibrosarcoma
+Placenta	HTR-8_SVneo	Trophoblast
+ESC	HUES48	ESC
+ESC	HUES6	ESC
+ESC	HUES64	ESC
+Cancer	HuH-7	Hepatocellular carcinoma
+Cancer	HuH-7.5	Hepatocellular carcinoma
+Stromal	IMR-90	Lung fibroblast
+Brain	inferior_parietal_cortex_male_adult_(84_years)	Inferior parietal cortex
+iPSC	iPS_DF_19.11_male_newborn	iPSC
+iPSC	iPS_DF_19.7_male_newborn	iPSC
+iPSC	iPS_DF_4.7_male_newborn	iPSC
+iPSC	iPS_DF_6.9_male_newborn	iPSC
+iPSC	iPS-11a_male_adult_(36_years)	iPSC
+iPSC	iPS-15b_female_adult_(48_years)	iPSC
+iPSC	iPS-18a_female_adult_(48_years)	iPSC
+iPSC	iPS-18c_female_adult_(48_years)	iPSC
+iPSC	iPS-20b_male_adult_(55_years)	iPSC
+iPSC	iPS-NIHi11_male_adult_(71_year)_originated_from_AG20443	iPSC
+iPSC	iPS-NIHi7_female_adult_(85_years)_originated_from_AG08395	iPSC
+Epithelial	iris_pigment_epithelial_cell	Iris pigment epithelial cell
+Cancer	Ishikawa	Endometrial adenocarcinoma
+Cancer	Ishikawa_treated_with_0.02pct_dimethyl_sulfoxide_for_1_hour	Endometrial adenocarcinoma
+Cancer	Ishikawa_treated_with_10_nM_17b-estradiol_for_30_minutes	Endometrial adenocarcinoma
+Cancer	Ishikawa_treated_with_600_nM_afimoxifene_for_30_minutes	Endometrial adenocarcinoma
+Pancreas	islet_precursor_cell	Islet precursor cell
+HSC & B-cell	Jurkat_clone_E61	Lymphocyte
+Cancer	K562	Myelogenous leukemia
+Cancer	K562_G1_phase	Myelogenous leukemia
+Cancer	K562_G2_phase	Myelogenous leukemia
+Cancer	K562_treated_with_0.05pct_dimethyl_sulfoxide_for_72_hours	Myelogenous leukemia
+Cancer	K562_treated_with_1_mM_vorinostat_for_72_hours	Myelogenous leukemia
+Cancer	K562_treated_with_500_mM_sodium_butyrate_for_72_hours	Myelogenous leukemia
+Cancer	K562_treated_with_interferon_alpha_for_30_minutes	Myelogenous leukemia
+Cancer	K562_treated_with_interferon_alpha_for_6_hours	Myelogenous leukemia
+Cancer	K562_treated_with_interferon_gamma_for_30_minutes	Myelogenous leukemia
+Cancer	K562_treated_with_interferon_gamma_for_6_hours	Myelogenous leukemia
+Cancer	Karpas-422	B cell lymphoma
+Cancer	KBM-7	Myelogenous leukemia
+Epithelial	keratinocyte_female	Keratinocyte
+Epithelial	keratinocyte_male	Keratinocyte
+Endothelial	kidney_capillary_endothelial_cell_female_embryo_(113_days)	Kidney capillary endothelial cell
+Kidney	kidney_embryo_(59_days)_and_female_embryo_(59_days)	Kidney
+Kidney	kidney_embryo_(80_days)	Kidney
+Epithelial	kidney_epithelial_cell	Kidney epithelial cell
+Kidney	kidney_female_embryo_(105_days)	Kidney
+Kidney	kidney_female_embryo_(108_days)	Kidney
+Kidney	kidney_female_embryo_(113_days)	Kidney
+Kidney	kidney_female_embryo_(120_days)	Kidney
+Kidney	kidney_female_embryo_(121_day)	Kidney
+Kidney	kidney_female_embryo_(76_days)_and_male_embryo_(76_days)	Kidney
+Kidney	kidney_female_embryo_(85_days)	Kidney
+Epithelial	kidney_glomerular_epithelial_cell_male_adult_(43_years)_and_male_adult_(62_years)	Glomerulus epithelial cell
+Kidney	kidney_male_adult_(22_years)_and_male_adult_(27_years)_and_male_adult_(35_years)	Kidney
+Kidney	kidney_male_adult_(50_years)	Kidney
+Kidney	kidney_male_adult_(67_years)	Kidney
+Kidney	kidney_male_embryo_(105_days)	Kidney
+Kidney	kidney_male_embryo_(85_days)	Kidney
+Kidney	kidney_male_embryo_(87_days)	Kidney
+Epithelial	kidney_tubule_cell_female_adult_(80_years)_and_male_adult_(62_years)	Tubule cell
+Epithelial	kidney_tubule_cell_female_adult_(80_years)_treated_with_5_mM_cisplatin	Tubule cell
+Cancer	KMS-11	Myeloma
+Cancer	KOPT-K1	Acute lymphoblastic leukemia
+iPSC	L1-S8	iPSC
+iPSC	L1-S8R	iPSC
+Digestive	large_intestine_female_embryo_(103_days)	Large intestine
+Digestive	large_intestine_female_embryo_(105_days)	Large intestine
+Digestive	large_intestine_female_embryo_(107_days)	Large intestine
+Digestive	large_intestine_female_embryo_(108_days)	Large intestine
+Digestive	large_intestine_female_embryo_(110_days)	Large intestine
+Digestive	large_intestine_female_embryo_(120_days)	Large intestine
+Digestive	large_intestine_female_embryo_(91_day)	Large intestine
+Digestive	large_intestine_female_embryo_(98_days)	Large intestine
+Digestive	large_intestine_male_embryo_(105_days)	Large intestine
+Digestive	large_intestine_male_embryo_(108_days)	Large intestine
+Digestive	large_intestine_male_embryo_(113_days)	Large intestine
+Digestive	large_intestine_male_embryo_(115_days)	Large intestine
+Digestive	large_intestine_male_embryo_(91_day)	Large intestine
+Brain	layer_of_hippocampus_female_adult_(75_years)	Hippocampus
+Brain	layer_of_hippocampus_male_adult_(73_years)	Hippocampus
+Brain	layer_of_hippocampus_male_adult_(81_year)	Hippocampus
+Heart	left_cardiac_atrium_female_embryo_(101_day)	Heart left atrium
+Kidney	left_kidney_female_embryo_(107_days)	Kidney
+Kidney	left_kidney_female_embryo_(110_days)	Kidney
+Kidney	left_kidney_female_embryo_(147_days)	Kidney
+Kidney	left_kidney_female_embryo_(59_days)_and_male_embryo_(91_day)	Kidney
+Kidney	left_kidney_female_embryo_(87_days)	Kidney
+Kidney	left_kidney_female_embryo_(98_days)	Kidney
+Kidney	left_kidney_male_embryo_(115_days)	Kidney
+Kidney	left_kidney_male_embryo_(87_days)	Kidney
+Kidney	left_kidney_male_embryo_(96_days)	Kidney
+Lung	left_lung_female_embryo_(105_days)	Lung
+Lung	left_lung_female_embryo_(107_days)	Lung
+Lung	left_lung_female_embryo_(108_days)	Lung
+Lung	left_lung_female_embryo_(110_days)	Lung
+Lung	left_lung_female_embryo_(117_days)	Lung
+Lung	left_lung_female_embryo_(91_day)	Lung
+Lung	left_lung_female_embryo_(98_days)	Lung
+Lung	left_lung_male_embryo_(105_days)	Lung
+Lung	left_lung_male_embryo_(113_days)	Lung
+Lung	left_lung_male_embryo_(115_days)	Lung
+Lung	left_lung_male_embryo_(87_days)	Lung
+Lung	left_lung_male_embryo_(91_day)	Lung
+Lung	left_lung_male_embryo_(96_days)	Lung
+Kidney	left_renal_cortex_interstitium_male_embryo_(105_days)	Renal cortex interstitium
+Kidney	left_renal_cortex_interstitium_male_embryo_(120_days)	Renal cortex interstitium
+Kidney	left_renal_pelvis_male_embryo_(105_days)	Renal pelvis
+Kidney	left_renal_pelvis_male_embryo_(120_days)	Renal pelvis
+Bone	leg_bone_male_embryo_(81_day)	Bone leg
+Myosat	LHCN-M2	Skeletal muscle myoblast
+Other	limb_embryo_(53_days)_and_embryo_(56_days)	Limb embryo
+Other	limb_embryo_(58_days)_and_embryo_(59_days)	Limb embryo
+Liver	liver_embryo_(59_days)_and_embryo_(80_days)	Liver
+Liver	liver_female_adult_(25_years)	Liver
+Liver	liver_female_child_(4_years)	Liver
+Liver	liver_female_child_(6_years)_and_male_adult_(32_years)	Liver
+Liver	liver_female_embryo_(101_day)_and_female_embryo_(113_days)	Liver
+Liver	liver_male_adult_(31_year)	Liver
+Liver	liver_male_adult_(32_years)	Liver
+Liver	liver_male_adult_(78_years)	Liver
+Cancer	LNCAP	Prostate adenocarcinoma
+Cancer	LNCaP_clone_FGC	Prostate adenocarcinoma
+Cancer	LNCaP_clone_FGC_treated_with_1_nM_17b-hydroxy-17-methylestra-4,9,11-trien-3-one_for_12_hours	Prostate adenocarcinoma
+Cancer	LNCAP_treated_with_10_nM_17b-hydroxy-5a-androstan-3-one_for_4_hours	Prostate adenocarcinoma
+Cancer	Loucy	Acute lymphoblastic leukemia
+Cancer	LoVo	Colorectal adenocarcinoma
+Epithelial	lower_leg_skin_female_adult_(51_year)	Skin leg
+Epithelial	lower_leg_skin_female_adult_(53_years)	Skin leg
+Epithelial	lower_leg_skin_male_adult_(37_years)	Skin leg
+Epithelial	lower_leg_skin_male_adult_(54_years)	Skin leg
+Epithelial	luminal_epithelial_cell_of_mammary_gland_female_adult_(33_years)	Mammary luminal epithelial cell
+Lung	lung_embryo_(101_day)	Lung
+Lung	lung_embryo_(112_days)	Lung
+Lung	lung_embryo_(67_days)	Lung
+Lung	lung_embryo_(80_days)_and_male_embryo_(76_days)	Lung
+Lung	lung_female_adult_(30_years)	Lung
+Lung	lung_female_embryo_(108_days)	Lung
+Lung	lung_female_embryo_(120_days)	Lung
+Lung	lung_female_embryo_(76_days)	Lung
+Lung	lung_female_embryo_(82_days)	Lung
+Lung	lung_female_embryo_(85_days)	Lung
+Lung	lung_female_embryo_(96_days)	Lung
+Lung	lung_male_adult_(27_years)_and_male_adult_(35_years)	Lung
+Lung	lung_male_child_(3_years)	Lung
+Lung	lung_male_embryo_(103_days)	Lung
+Lung	lung_male_embryo_(108_days)	Lung
+Lung	lung_male_embryo_(54_days)_and_male_embryo_(58_days)	Lung
+Lung	lung_male_embryo_(82_days)	Lung
+Endothelial	lung_microvascular_endothelial_cell_female	Lung microvascular endothelial cell
+Cancer	M059J	Glioblastoma
+Epithelial	mammary_epithelial_cell_female	Mammary epithelial cell
+Epithelial	mammary_epithelial_cell_female_adult_(18_years)	Mammary epithelial cell
+Epithelial	mammary_epithelial_cell_female_adult_(50_years)	Mammary epithelial cell
+Other	mammary_stem_cell	Mammary stem cell
+Epithelial	MCF_10A	Breast epithelial cell
+Epithelial	MCF_10A_originated_from_MCF_10A_treated_with_1_mM_afimoxifene_for_36_hours	Breast epithelial cell
+Epithelial	MCF_10A_treated_with_1_mM_tamoxifen_for_24_hours	Breast epithelial cell
+Epithelial	MCF_10A_treated_with_1_mM_tamoxifen_for_6_hours	Breast epithelial cell
+Cancer	MCF-7	Mammary gland adenocarcinoma
+Cancer	MCF-7_originated_from_MCF-7	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_10_mM_lactate_for_24_hours	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_100_nM_17b-estradiol_for_45_minutes	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_100_nM_estradiol_for_1_hour	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_CTCF_shRNA_knockdown	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_serum_starved_media	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_serum_stimulated_media	Mammary gland adenocarcinoma
+Cancer	MCF-7_treated_with_vehicle	Mammary gland adenocarcinoma
+Brain	medulla_oblongata_male_adult_(78_years)_and_male_adult_(84_years)	Medulla oblongata
+Cancer	medulloblastoma	Medulloblastoma
+Mesenchyme	mesenchymal_stem_cell_originated_from_adipose_tissue	Mesenchymal stem cell
+ES-deriv	mesenchymal_stem_cell_originated_from_H1-hESC	Mesenchymal stem deriv
+ES-deriv	mesendoderm_originated_from_H1-hESC	Mesendoderm deriv
+ES-deriv	mesodermal_cell_originated_from_HUES64	Mesodermal deriv
+Cancer	MG63	Osteosarcoma
+Brain	midbrain_male_adult_(78_years)_and_male_adult_(84_years)	Midbrain
+Brain	middle_frontal_area_46_female_adult_(75_years)	Middle frontal area
+Brain	middle_frontal_area_46_male_adult_(81_year)	Middle frontal area
+Brain	middle_frontal_gyrus_male_adult_(78_years)	Middle frontal gyrus
+Cancer	MM.1S	Myeloma
+Blood & T-cell	mononuclear_cell_male	Mononuclear cell
+Digestive	mucosa_of_rectum_female_adult_(50_years)	Rectum mucosa
+Digestive	mucosa_of_rectum_female_adult_(61_year)	Rectum mucosa
+Digestive	mucosa_of_stomach_male_adult_(59_years)	Stomach mucosa
+Sm.Muscle	muscle_layer_of_colon_female_adult_(56_years)	Colon muscle
+Sm.Muscle	muscle_layer_of_colon_female_adult_(77_years)	Colon muscle
+Sm.Muscle	muscle_layer_of_duodenum_male_adult_(59_years)	Duodenum muscle
+Sm.Muscle	muscle_layer_of_duodenum_male_adult_(73_years)	Duodenum muscle
+Muscle	muscle_of_arm_embryo_(101_day)	Arm muscle
+Muscle	muscle_of_arm_female_embryo_(105_days)	Arm muscle
+Muscle	muscle_of_arm_female_embryo_(115_days)	Arm muscle
+Muscle	muscle_of_arm_female_embryo_(120_days)	Arm muscle
+Muscle	muscle_of_arm_female_embryo_(85_days)	Arm muscle
+Muscle	muscle_of_arm_female_embryo_(98_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(101_day)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(104_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(105_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(113_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(115_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(120_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(127_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(96_days)	Arm muscle
+Muscle	muscle_of_arm_male_embryo_(97_days)	Arm muscle
+Muscle	muscle_of_back_female_embryo_(105_days)	Back muscle
+Muscle	muscle_of_back_female_embryo_(113_days)	Back muscle
+Muscle	muscle_of_back_female_embryo_(115_days)	Back muscle
+Muscle	muscle_of_back_female_embryo_(85_days)	Back muscle
+Muscle	muscle_of_back_female_embryo_(98_days)	Back muscle
+Muscle	muscle_of_back_male_embryo_(101_day)	Back muscle
+Muscle	muscle_of_back_male_embryo_(104_days)	Back muscle
+Muscle	muscle_of_back_male_embryo_(105_days)	Back muscle
+Muscle	muscle_of_back_male_embryo_(108_days)	Back muscle
+Muscle	muscle_of_back_male_embryo_(127_days)	Back muscle
+Muscle	muscle_of_back_male_embryo_(91_day)	Back muscle
+Muscle	muscle_of_back_male_embryo_(96_days)	Back muscle
+Muscle	muscle_of_back_male_embryo_(97_days)	Back muscle
+Muscle	muscle_of_leg_female_embryo_(105_days)	Leg muscle
+Muscle	muscle_of_leg_female_embryo_(110_days)	Leg muscle
+Muscle	muscle_of_leg_female_embryo_(113_days)	Leg muscle
+Muscle	muscle_of_leg_female_embryo_(115_days)	Leg muscle
+Muscle	muscle_of_leg_female_embryo_(85_days)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(101_day)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(104_days)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(105_days)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(115_days)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(127_days)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(96_days)	Leg muscle
+Muscle	muscle_of_leg_male_embryo_(97_days)	Leg muscle
+Muscle	muscle_of_trunk_female_embryo_(113_days)	Trunk muscle
+Muscle	muscle_of_trunk_female_embryo_(115_days)	Trunk muscle
+Muscle	muscle_of_trunk_female_embryo_(120_days)	Trunk muscle
+Muscle	muscle_of_trunk_female_embryo_(121_day)	Trunk muscle
+Myosat	myocyte_originated_from_LHCN-M2	Myocyte
+Epithelial	myoepithelial_cell_of_mammary_gland_female_adult_(33_years)	Mammary myoepithelial cell
+Epithelial	myoepithelial_cell_of_mammary_gland_female_adult_(36_years)	Mammary myoepithelial cell
+Myosat	myotube_originated_from_skeletal_muscle_myoblast	Myotube
+HSC & B-cell	naive_B_cell	B cell
+Blood & T-cell	naive_thymus-derived_CD4-positive,_alpha-beta_T_cell	Naive T cell
+Blood & T-cell	naive_thymus-derived_CD4-positive,_alpha-beta_T_cell_female_adult_(35_years)	Naive T cell
+Blood & T-cell	naive_thymus-derived_CD4-positive,_alpha-beta_T_cell_male_adult_(26_years)	Naive T cell
+Cancer	NAMALWA	Burkitt lymphoma
+Cancer	NAMALWA_treated_with_Sendai_virus_for_2_hours	Burkitt lymphoma
+HSC & B-cell	natural_killer_cell_female_adult_(34_years)	NK cell
+HSC & B-cell	natural_killer_cell_male_adult_(21_year)	NK cell
+HSC & B-cell	natural_killer_cell_male_adult_(37_years)	NK cell
+Cancer	NB4	Acute promyelocytic leukemia
+Cancer	NCI-H226	Squamous cell carcinoma
+Cancer	NCI-H460	Large cell lung cancer
+Cancer	NCI-H929	Myeloma
+ES-deriv	neural_cell_originated_from_H1-hESC	Neural deriv
+ES-deriv	neural_progenitor_cell_originated_from_H9	Neural progenitor deriv
+ES-deriv	neural_stem_progenitor_cell_originated_from_H1-hESC	Neural progenitor deriv
+ES-deriv	neural_stem_progenitor_cell_originated_from_H9	Neural progenitor deriv
+ES-deriv	neuron_originated_from_H9	Neuron deriv
+Neurosph	neurosphere_embryo_(15_weeks)_originated_from_ganglionic_eminence	Neurosphere
+Neurosph	neurosphere_female_embryo_(17_weeks)_originated_from_cortex	Neurosphere
+Neurosph	neurosphere_female_embryo_(17_weeks)_originated_from_ganglionic_eminence	Neurosphere
+HSC & B-cell	neutrophil	Neutrophil
+HSC & B-cell	neutrophil_male	Neutrophil
+Epithelial	non-pigmented_ciliary_epithelial_cell	Non-pigmented ciliary epithelial cell
+Cancer	NT2_D1	Testicular embryonal carcinoma
+Brain	occipital_lobe_male_adult_(84_years)	Occipital lobe
+Cancer	OCI-LY1	B cell lymphoma
+Cancer	OCI-LY3	B cell lymphoma
+Cancer	OCI-LY7	B cell lymphoma
+Neurosph	olfactory_neurosphere_cell_line	Olfactory neurosphere
+Adipose	omental_fat_pad_female_adult_(51_year)	Omental fat pad
+Adipose	omental_fat_pad_female_adult_(53_years)	Omental fat pad
+Adipose	omental_fat_pad_male_adult_(37_years)	Omental fat pad
+Adipose	omental_fat_pad_male_adult_(54_years)	Omental fat pad
+Bone	osteoblast	Osteoblast
+Endocrine	ovary_female_adult_(30_years)	Ovary
+Endocrine	ovary_female_adult_(51_year)	Ovary
+Endocrine	ovary_female_adult_(53_years)	Ovary
+Endocrine	ovary_female_embryo	Ovary
+Cancer	Panc1	Pancreas duct epithelial carcinoma
+Pancreas	pancreas_female_adult_(30_years)	Pancreas
+Pancreas	pancreas_male_adult_(34_years)	Pancreas
+Pancreas	pancreas_male_adult_(54_years)_and_male_adult_(60_years)	Pancreas
+Cancer	Parathyroid_adenoma_male_adult_(62_years)	Parathyroid adenoma
+Cancer	Parathyroid_adenoma_male_adult_(65_years)	Parathyroid adenoma
+Cancer	PC-3	Prostate adenocarcinoma
+Cancer	PC-9	Lung adenocarcinoma
+Blood & T-cell	peripheral_blood_mononuclear_cell_female_adult_(28_years)	Mononuclear cell
+Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(27_years)	Mononuclear cell
+Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(28_years)	Mononuclear cell
+Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(32_years)	Mononuclear cell
+Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(39_years)	Mononuclear cell
+Digestive	Peyer_s_patch_female_adult_(51_year)	Peyers patch
+Digestive	Peyer_s_patch_female_adult_(53_years)	Peyers patch
+Digestive	Peyer_s_patch_male_adult_(37_years)	Peyers patch
+Digestive	Peyer_s_patch_male_adult_(54_years)	Peyers patch
+Placenta	placenta_embryo_(102_days)	Placenta
+Placenta	placenta_embryo_(16_weeks)	Placenta
+Placenta	placenta_embryo_(53_days)	Placenta
+Placenta	placenta_embryo_(56_days)_and_embryo_(59_days)	Placenta
+Placenta	placenta_female_embryo_(101_day)_and_male_embryo_(105_days)	Placenta
+Placenta	placenta_female_embryo_(105_days)	Placenta
+Placenta	placenta_female_embryo_(108_days)	Placenta
+Placenta	placenta_female_embryo_(113_days)	Placenta
+Placenta	placenta_female_embryo_(85_days)	Placenta
+Placenta	placenta_male_embryo_(16_weeks)	Placenta
+Placenta	placenta_male_embryo_(85_days)	Placenta
+Placenta	placenta_male_embryo_(91_day)	Placenta
+Placenta	placental_basal_plate_female_embryo_(40_weeks)	Placenta
+Placenta	placental_basal_plate_male_embryo_(38_weeks)	Placenta
+Brain	pons_male_adult_(78_years)	Pons
+Brain	posterior_cingulate_cortex_male_adult_(20_years)	Posterior cingulate cortex
+Reproductive	prostate_gland_male_adult_(37_years)	Prostate gland
+Reproductive	prostate_gland_male_adult_(54_years)	Prostate gland
+Reproductive	prostate_male_adult_(54_years)	Prostate gland
+Muscle	psoas_muscle_female_adult_(30_years)	Psoas muscle
+Muscle	psoas_muscle_male_adult_(27_years)_and_male_adult_(35_years)	Psoas muscle
+Muscle	psoas_muscle_male_adult_(34_years)	Psoas muscle
+Muscle	psoas_muscle_male_child_(3_years)	Psoas muscle
+Endothelial	pulmonary_artery_endothelial_cell_female	Pulmonary artery endothelial cell
+Brain	putamen_male_adult_(78_years)	Putamen
+Lymphoblastoid	Raji	Lymphoblastoid cell line
+Cancer	RCC_7860	Renal cell adenocarcinoma
+Sm.Muscle	rectal_smooth_muscle_tissue_female_adult_(50_years)	Rectum muscle
+Blood & T-cell	regulatory_T_cell_female_adult_(35_years)	Treg cell
+Blood & T-cell	regulatory_T_cell_male_adult_(28_years)	Treg cell
+Blood & T-cell	regulatory_T_cell_originated_from_blood_cell	Treg cell
+Cancer	renal_cell_carcinoma	Renal cell carcinoma
+Kidney	renal_cortex_interstitium_female_embryo_(103_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_female_embryo_(120_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_female_embryo_(89_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_female_embryo_(96_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_male_embryo_(108_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_male_embryo_(113_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_male_embryo_(127_days)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_male_embryo_(91_day)	Renal cortex interstitium
+Kidney	renal_cortex_interstitium_male_embryo_(97_days)	Renal cortex interstitium
+Epithelial	renal_cortical_epithelial_cell	Renal cortical epithelial cell
+Kidney	renal_pelvis_female_embryo_(103_days)	Renal pelvis
+Kidney	renal_pelvis_female_embryo_(105_days)	Renal pelvis
+Kidney	renal_pelvis_female_embryo_(89_days)	Renal pelvis
+Kidney	renal_pelvis_female_embryo_(96_days)	Renal pelvis
+Kidney	renal_pelvis_male_embryo_(108_days)	Renal pelvis
+Kidney	renal_pelvis_male_embryo_(113_days)	Renal pelvis
+Kidney	renal_pelvis_male_embryo_(127_days)	Renal pelvis
+Kidney	renal_pelvis_male_embryo_(91_day)	Renal pelvis
+Kidney	renal_pelvis_male_embryo_(97_days)	Renal pelvis
+Eye	retina_embryo_(125_days)_and_male_embryo_(103_days)	Eye retina
+Eye	retina_embryo_(74_days)_and_embryo_(85_days)	Eye retina
+Eye	retina_female_embryo_(89_days)	Eye retina
+Epithelial	retinal_pigment_epithelial_cell	Retinal epithelial cell
+Heart	right_atrium_auricular_region_female_adult_(51_year)	Heart right atrium
+Heart	right_atrium_auricular_region_female_adult_(53_years)	Heart right atrium
+Heart	right_cardiac_atrium_male_adult_(34_years)	Heart right atrium
+Kidney	right_kidney_female_embryo_(107_days)	Kidney
+Kidney	right_kidney_female_embryo_(117_days)	Kidney
+Kidney	right_kidney_female_embryo_(147_days)	Kidney
+Kidney	right_kidney_female_embryo_(87_days)	Kidney
+Kidney	right_kidney_female_embryo_(98_days)	Kidney
+Kidney	right_kidney_male_embryo_(108_days)	Kidney
+Kidney	right_kidney_male_embryo_(115_days)	Kidney
+Kidney	right_kidney_male_embryo_(87_days)	Kidney
+Kidney	right_kidney_male_embryo_(91_day)	Kidney
+Kidney	right_kidney_male_embryo_(96_days)	Kidney
+Liver	right_lobe_of_liver_female_adult_(53_years)	Liver
+Lung	right_lung_female_embryo_(105_days)	Lung
+Lung	right_lung_female_embryo_(107_days)	Lung
+Lung	right_lung_female_embryo_(108_days)	Lung
+Lung	right_lung_female_embryo_(110_days)	Lung
+Lung	right_lung_female_embryo_(117_days)	Lung
+Lung	right_lung_female_embryo_(91_day)	Lung
+Lung	right_lung_female_embryo_(98_days)	Lung
+Lung	right_lung_male_embryo_(105_days)	Lung
+Lung	right_lung_male_embryo_(115_days)	Lung
+Lung	right_lung_male_embryo_(87_days)	Lung
+Lung	right_lung_male_embryo_(96_days)	Lung
+Kidney	right_renal_cortex_interstitium_male_embryo_(105_days)	Renal cortex interstitium
+Kidney	right_renal_cortex_interstitium_male_embryo_(120_days)	Renal cortex interstitium
+Kidney	right_renal_pelvis_male_embryo_(105_days)	Renal pelvis
+Kidney	right_renal_pelvis_male_embryo_(120_days)	Renal pelvis
+Cancer	RKO	Colon carcinoma
+Cancer	RPMI-7951	Melanoma
+Cancer	RPMI8226	Plasma cell myeloma
+Epithelial	RWPE1	Prostate epithelial cell
+Epithelial	RWPE2	Prostate epithelial cell
+Digestive	sigmoid_colon_female_adult_(51_year)	Sigmoid colon
+Digestive	sigmoid_colon_female_adult_(53_years)	Sigmoid colon
+Digestive	sigmoid_colon_male_adult_(34_years)	Sigmoid colon
+Digestive	sigmoid_colon_male_adult_(37_years)	Sigmoid colon
+Digestive	sigmoid_colon_male_adult_(54_years)	Sigmoid colon
+Digestive	sigmoid_colon_male_child_(3_years)	Sigmoid colon
+Cancer	SJCRH30	Rhabdomyosarcoma
+Cancer	SJSA1	Osteosarcoma
+Cancer	SK-MEL-5	Melanoma
+Cancer	SK-N-DZ	Neuroblastoma
+Cancer	SK-N-DZ_treated_with_dimethyl_sulfoxide_for_72_hours	Neuroblastoma
+Cancer	SK-N-MC	Neuroepithelioma
+Cancer	SK-N-SH	Neuroblastoma
+Cancer	SK-N-SH_treated_with_6_mM_all-trans-retinoic_acid_for_48_hours	Neuroblastoma
+Muscle	skeletal_muscle_cell	Skeletal muscle cell
+Myosat	skeletal_muscle_myoblast	Skeletal muscle myoblast
+Myosat	skeletal_muscle_myoblast_male_adult_(22_years)	Skeletal muscle myoblast
+Myosat	skeletal_muscle_satellite_cell_female_adult_originated_from_mesodermal_cell	Skeletal muscle satellite cell
+Muscle	skeletal_muscle_tissue	Skeletal muscle
+Muscle	skeletal_muscle_tissue_female_adult_(72_years)	Skeletal muscle
+Muscle	skeletal_muscle_tissue_male_adult_(54_years)	Skeletal muscle
+Stromal	skin_fibroblast_male_embryo_(97_days)	Skin fibroblast
+Epithelial	skin_of_body_female_embryo_(82_days)	Skin of body
+Digestive	small_intestine_female_adult_(30_years)	Small intestine
+Digestive	small_intestine_female_embryo_(105_days)	Small intestine
+Digestive	small_intestine_female_embryo_(107_days)	Small intestine
+Digestive	small_intestine_female_embryo_(108_days)	Small intestine
+Digestive	small_intestine_female_embryo_(110_days)	Small intestine
+Digestive	small_intestine_female_embryo_(120_days)	Small intestine
+Digestive	small_intestine_female_embryo_(91_day)	Small intestine
+Digestive	small_intestine_female_embryo_(98_days)	Small intestine
+Digestive	small_intestine_male_adult_(34_years)	Small intestine
+Digestive	small_intestine_male_child_(3_years)	Small intestine
+Digestive	small_intestine_male_embryo_(105_days)	Small intestine
+Digestive	small_intestine_male_embryo_(108_days)	Small intestine
+Digestive	small_intestine_male_embryo_(115_days)	Small intestine
+Digestive	small_intestine_male_embryo_(87_days)	Small intestine
+Digestive	small_intestine_male_embryo_(91_day)	Small intestine
+Sm.Muscle	smooth_muscle_cell_of_the_brain_vasculature_female	Brain vasculature smooth muscle cell
+ES-deriv	smooth_muscle_cell_originated_from_H9	Smooth muscle deriv
+PNS	spinal_cord_female_embryo_(108_days)	Spinal cord
+PNS	spinal_cord_female_embryo_(113_days)	Spinal cord
+PNS	spinal_cord_female_embryo_(59_days)_and_male_embryo_(72_days)	Spinal cord
+PNS	spinal_cord_female_embryo_(87_days)	Spinal cord
+PNS	spinal_cord_female_embryo_(89_days)	Spinal cord
+PNS	spinal_cord_male_embryo_(105_days)	Spinal cord
+PNS	spinal_cord_male_embryo_(96_days)	Spinal cord
+Spleen	spleen_embryo_(112_days)	Spleen
+Spleen	spleen_female_adult_(20_years)_and_female_adult_(30_years)	Spleen
+Spleen	spleen_female_adult_(30_years)	Spleen
+Spleen	spleen_female_adult_(51_year)	Spleen
+Spleen	spleen_female_adult_(53_years)	Spleen
+Spleen	spleen_male_adult_(34_years)	Spleen
+Spleen	spleen_male_adult_(37_years)	Spleen
+Spleen	spleen_male_adult_(54_years)	Spleen
+Spleen	spleen_male_child_(3_years)	Spleen
+Digestive	stomach_embryo_(101_day)	Stomach
+Digestive	stomach_female_adult_(30_years)	Stomach
+Digestive	stomach_female_adult_(51_year)	Stomach
+Digestive	stomach_female_adult_(53_years)	Stomach
+Digestive	stomach_female_embryo	Stomach
+Digestive	stomach_female_embryo_(105_days)	Stomach
+Digestive	stomach_female_embryo_(107_days)	Stomach
+Digestive	stomach_female_embryo_(108_days)	Stomach
+Digestive	stomach_female_embryo_(121_day)	Stomach
+Digestive	stomach_female_embryo_(147_days)	Stomach
+Digestive	stomach_female_embryo_(96_days)	Stomach
+Digestive	stomach_female_embryo_(98_days)	Stomach
+Digestive	stomach_male_adult_(34_years)	Stomach
+Digestive	stomach_male_adult_(37_years)	Stomach
+Digestive	stomach_male_adult_(54_years)	Stomach
+Digestive	stomach_male_child_(3_years)	Stomach
+Digestive	stomach_male_embryo_(108_days)	Stomach
+Digestive	stomach_male_embryo_(127_days)	Stomach
+Digestive	stomach_male_embryo_(58_days)_and_male_embryo_(76_days)	Stomach
+Digestive	stomach_male_embryo_(91_day)	Stomach
+Sm.Muscle	stomach_smooth_muscle_female_adult_(84_years)	Stomach muscle
+Sm.Muscle	stomach_smooth_muscle_male_adult_(59_years)	Stomach muscle
+Stromal	stromal_cell_of_bone_marrow_male	Bone marrow stromal cell
+Cancer	SU-DHL-6	B cell lymphoma
+Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(25_years)	Adipose tissue
+Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(41_year)	Adipose tissue
+Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(49_years)	Adipose tissue
+Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(59_years)	Adipose tissue
+Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(81_year)	Adipose tissue
+Adipose	subcutaneous_adipose_tissue_female_adult_(51_year)	Adipose tissue
+Adipose	subcutaneous_adipose_tissue_female_adult_(53_years)	Adipose tissue
+Brain	substantia_nigra_female_adult_(75_years)	Substantia nigra
+Brain	substantia_nigra_male_adult_(81_year)	Substantia nigra
+Brain	superior_temporal_gyrus_male_adult_(84_years)	Superior temporal gyrus
+Epithelial	suprapubic_skin_female_adult_(51_year)	Suprapubic skin
+Epithelial	suprapubic_skin_female_adult_(53_years)	Suprapubic skin
+Epithelial	suprapubic_skin_male_adult_(54_years)	Suprapubic skin
+Cancer	SW480	Colorectal adenocarcinoma
+Blood & T-cell	T-cell	T cell
+Blood & T-cell	T-cell_male_adult_(21_year)	T cell
+Blood & T-cell	T-cell_male_adult_(36_years)	T cell
+Blood & T-cell	T-cell_male_adult_(37_years)	T cell
+Blood & T-cell	T-helper_1_cell	T1 cell
+Blood & T-cell	T-helper_1_cell_female_adult_(26_years)	T1 cell
+Blood & T-cell	T-helper_1_cell_male_adult_(33_years)	T1 cell
+Blood & T-cell	T-helper_17_cell	T17 cell
+Blood & T-cell	T-helper_17_cell_originated_from_blood_cell	T17 cell
+Blood & T-cell	T-helper_17_cell_treated_with_phorbol_13-acetate_12-myristate_,_ionomycin	T17 cell
+Blood & T-cell	T-helper_2_cell	T2 cell
+Blood & T-cell	T-helper_2_cell_female_adult_(26_years)	T2 cell
+Blood & T-cell	T-helper_2_cell_male_adult_(33_years)	T2 cell
+Cancer	T47D	Mammary gland ductal carcinoma
+Cancer	T47D_treated_with_0.02pct_dimethyl_sulfoxide_for_1_hour	Mammary gland ductal carcinoma
+Cancer	T47D_treated_with_10_nM_17b-estradiol_for_30_minutes	Mammary gland ductal carcinoma
+Brain	temporal_lobe_female_adult_(75_years)	Temporal lobe
+Brain	temporal_lobe_male_adult_(81_year)	Temporal lobe
+Endocrine	testis_male_adult_(37_years)	Testis
+Endocrine	testis_male_adult_(54_years)	Testis
+Endocrine	testis_male_embryo	Testis
+Heart	thoracic_aorta_male_adult_(37_years)	Thoracic aorta
+Heart	thoracic_aorta_male_adult_(54_years)	Thoracic aorta
+Thymus	thymus_female_embryo	Thymus
+Thymus	thymus_female_embryo_(105_days)	Thymus
+Thymus	thymus_female_embryo_(110_days)	Thymus
+Thymus	thymus_female_embryo_(113_days)	Thymus
+Thymus	thymus_female_embryo_(147_days)	Thymus
+Thymus	thymus_female_embryo_(98_days)	Thymus
+Thymus	thymus_male_child_(3_years)	Thymus
+Thymus	thymus_male_embryo_(104_days)	Thymus
+Thymus	thymus_male_embryo_(108_days)	Thymus
+Thymus	thymus_male_embryo_(113_days)	Thymus
+Thymus	thymus_male_embryo_(127_days)	Thymus
+Endocrine	thyroid_gland_female_adult_(51_year)	Thyroid gland
+Endocrine	thyroid_gland_female_adult_(53_years)	Thyroid gland
+Endocrine	thyroid_gland_male_adult_(37_years)	Thyroid gland
+Endocrine	thyroid_gland_male_adult_(54_years)	Thyroid gland
+Heart	tibial_artery_female_adult_(53_years)	Tibial artery
+Heart	tibial_artery_male_adult_(37_years)	Tibial artery
+Heart	tibial_artery_male_adult_(54_years)	Tibial artery
+PNS	tibial_nerve_female_adult_(51_year)	Tibial nerve
+PNS	tibial_nerve_female_adult_(53_years)	Tibial nerve
+PNS	tibial_nerve_male_adult_(37_years)	Tibial nerve
+Muscle	tongue_female_embryo_(59_days)_and_female_embryo_(76_days)	Tongue
+Muscle	tongue_male_embryo_(72_days)	Tongue
+Digestive	transverse_colon_female_adult_(51_year)	Transverse colon
+Digestive	transverse_colon_female_adult_(53_years)	Transverse colon
+Digestive	transverse_colon_male_adult_(37_years)	Transverse colon
+Digestive	transverse_colon_male_adult_(54_years)	Transverse colon
+Placenta	trophoblast_cell_embryo_(17_weeks)_and_embryo_(18_weeks)	Trophoblast
+Placenta	trophoblast_cell_embryo_(21_week)	Trophoblast
+Placenta	trophoblast_cell_embryo_(23_weeks)	Trophoblast
+Placenta	trophoblast_cell_embryo_(39_weeks)_and_embryo_(40_weeks)	Trophoblast
+ES-deriv	trophoblast_cell_originated_from_H1-hESC	Trophoblast deriv
+Placenta	trophoblast_female_embryo_(20_weeks)	Trophoblast
+Placenta	trophoblast_female_embryo_(40_weeks)	Trophoblast
+ESC	UCSF-4	ESC
+Placenta	umbilical_cord_embryo_(59_days)_and_male_embryo_(76_days)	Umbilical cord
+Lung	upper_lobe_of_left_lung_female_adult_(51_year)	Lung
+Lung	upper_lobe_of_left_lung_female_adult_(53_years)	Lung
+Lung	upper_lobe_of_left_lung_male_adult_(37_years)	Lung
+Lung	upper_lobe_of_left_lung_male_adult_(54_years)	Lung
+Urinary	urinary_bladder_male_adult_(34_years)	Urinary bladder
+Urinary	urinary_bladder_male_embryo_(76_days)	Urinary bladder
+Urinary	urothelium_cell_line	Urothelium cell
+Urinary	urothelium_cell_line_treated_with_UT189_for_1_hour	Urothelium cell
+Reproductive	uterus_female_adult_(51_year)	Uterus
+Reproductive	uterus_female_adult_(53_years)	Uterus
+Reproductive	vagina_female_adult_(51_year)	Vagina
+Reproductive	vagina_female_adult_(53_years)	Vagina
+Cancer	VCaP	Prostate epithelial carcinoma
+Cancer	WERI-Rb-1	Eye retinoblastoma
+Stromal	WI38	Lung fibroblast
