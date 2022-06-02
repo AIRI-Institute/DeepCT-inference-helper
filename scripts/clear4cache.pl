@@ -33,7 +33,7 @@ while (<>) {
             \S+\t # FILTER
             \S+?; # Start of INFO
            (
-            DEEPCT\S+
+            DEEPCT[^\t]+
            )
           \t.+?$  # FORMAT and samples
         /$1.\t.\t$2/x;
