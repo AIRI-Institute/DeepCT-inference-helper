@@ -81,7 +81,8 @@ only this time back to hg38 from hg19.
 ## Computing resources
 
 * Inference is slow.
-One Tesla V100 produces ~6.5 variants per second.
+One Tesla V100 processes ~6.5 variants per second. 
+24 cores of Xeon E5-2690 process 1 variant in 20 seconds.
 
 * That's why there's a cache implemented.
 All your processed variants will be added to 
@@ -97,7 +98,7 @@ Just remember keep the VCF headers in all of them.
 
 * You can change CUDA device in the 
 `templates/inference.template.yml` at line 27.
-Or use just CPU. Please refer to the 
+Or use just CPU (comment out that line). Please refer to the 
 [Selene documentation](https://selene.flatironinstitute.org/master/overview/cli.html).
 
 ## General notes
