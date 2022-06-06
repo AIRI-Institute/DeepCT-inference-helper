@@ -41,9 +41,11 @@ Note that you put file in the `input/` but request the `output/`.
 
 ## What this does
 
-**TLDR:** You put your hg38 VCF in `input/`, it converts variants to hg19,
-runs the model on them, adds a new annotation field `INFO/DEEPCT` 
-(only for significant variants), converts them back to hg38, 
+**TLDR:** You put your hg38 VCF in `input/`, 
+it converts variants to hg19, runs the model on them, 
+adds three new annotation fields under the `INFO/` 
+(`DEEPCT_CHANGE`, `DEEPCT_ORGANS`, `DEEPCT_CELLS`) 
+to variants with significant hits, converts them back to hg38, 
 and puts hg38 VCF in `output/`.
 
 **In detail:**
