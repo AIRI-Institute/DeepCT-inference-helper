@@ -31,12 +31,12 @@ while (<>) {
            )
             \S+\t # QUAL
             \S+\t # FILTER
-            \S+?; # Start of INFO
+           (\S+?;)? # Start of INFO
            (
             DEEPCT[^\t]+
            )
-          \t.+?$  # FORMAT and samples
-        /$1.\t.\t$2/x;
+          (\t.+)?$  # FORMAT and samples
+        /$1.\t.\t$3/x;
     } else {
         s/^(
             \S+\t # CHROM
@@ -47,8 +47,8 @@ while (<>) {
            )
             \S+\t # QUAL
             \S+\t # FILTER
-            \S+\t # INFO
-          .+?$    # FORMAT and samples
+            \S+   # INFO
+           (\t.+)?$ # FORMAT and samples
         /$1.\t.\t./x;
     }
     print;

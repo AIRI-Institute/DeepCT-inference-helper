@@ -162,7 +162,7 @@ def main():
     vcfout = open(args.output_vcf, 'w')
     with open(args.input_vcf,  'r') as vcfin:
         for variant in var_results:
-            vcf_line = vcfin.readline()
+            vcf_line = vcfin.readline().rstrip()
 
             if variant:
                 fields = vcf_line.split("\t")
@@ -181,10 +181,10 @@ def main():
 
                 fields[7] += change + organs + cells
                 merged_line = "\t".join(fields)
-                vcfout.write(merged_line)
+                vcfout.write(merged_line+"\n")
             else:
                 if args.include_wo_predictions:
-                    vcfout.write(vcf_line)
+                    vcfout.write(vcf_line+"\n")
     vcfout.close()
 
 
