@@ -5,9 +5,13 @@ for a VCF file.
 
 ## How to run
 
-0. Install git LFS before cloning this repo:
+0. Download and unpack large files (previously stored via git-lfs):
 ```
-sudo apt install git-lfs
+wget https://nxt.2a2i.org/index.php/s/CAQYtAkPnyRJ42F/download -O DeepCT-inference-helper-large-files.zip
+unzip DeepCT-inference-helper-large-files.zip
+mv DeepCT-inference-helper-large-files/cache* cache/
+mv DeepCT-inference-helper-large-files/* models/
+rm -rf DeepCT-inference-helper-large-files*
 ```
 
 1. Install necessary software:
@@ -126,3 +130,4 @@ Provided under Apache License 2.0.
 © 2022 Autonomous Non-Profit Organization 
 "Artificial Intelligence Research Institute" (AIRI). 
 All rights reserved.
+
